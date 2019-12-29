@@ -1,3 +1,6 @@
+(h2o-terraform-oracle-cloud) deploy H2O Driverless AI on Oracle Cloud Infrastructure   
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
 [![Actions Status](https://github.com/oci-quickstart/oci-h2o/workflows/OCI-Marketplace/badge.svg)](https://github.com/oci-quickstart/oci-h2o/actions)
 
 # oci-quickstart-h2o
